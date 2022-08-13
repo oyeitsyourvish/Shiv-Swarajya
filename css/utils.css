@@ -7,7 +7,7 @@
 }
 
 .center{
-  text-align: center
+  text-align: center 
 }
 
 .font1 {
@@ -52,7 +52,7 @@
 
 .btn:hover {
   color: white;
-  background: var(--main-bg-color);
+  background: rgb(235, 97, 11);
 }
 
 .form-input {

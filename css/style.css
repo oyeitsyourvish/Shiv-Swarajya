@@ -14,7 +14,7 @@
 
 .nav-left {
   display: flex;
-}
+} 
 
 .nav-left span {
   font-size: 35px;
@@ -42,7 +42,7 @@
 }
 
 .nav-left ul li a:hover {
-  color: var(--main-bg-color);
+  color: rgb(235, 97, 11);
   font-weight: bolder;
 }
 
@@ -56,7 +56,6 @@
 
 .content::after {
   content: "";
-  background-image: url("../img/11.svg");
   position: absolute;
   width: 100%;
   height: inherit;
@@ -80,9 +79,9 @@
 }
 
 .content-right img {
-  height: 355px;
+  height: 250px;
   border: 2px solid black;
-  border-radius: 200px;
+  border-radius: 41px;
 }
 
 .home-articles {
@@ -111,6 +110,7 @@
 }
 
 .home-article img {
+  height: 200px;
   width: 300px;
 }
 
