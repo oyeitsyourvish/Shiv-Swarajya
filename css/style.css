@@ -52,6 +52,7 @@
   margin-top: 32px;
   padding: 9px;
   position: relative;
+  background-color: #fdfde5;
 }
 
 .content::after {
@@ -126,14 +127,16 @@
 /* .home-articles{} */
 .footer {
   height: 50px;
-  background-color: var(--main-bg-color);
+  background-color: orange;
   display: flex;
   align-items: center;
   justify-content: center;
-  color: white;
+  color: black;
   flex-direction: column;
+  font-family: var(--font1);
+  cursor: pointer;
 }
 
-.footer a {
+/* .footer a {
   color: white;
-}
+} */

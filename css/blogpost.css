@@ -13,7 +13,8 @@
     text-align: center;
 }
 .blog-post-content p{
-    font-size: 18px; 
+    font-size: 18px;
+    text-indent: 6rem; 
 }
 
 .row{
